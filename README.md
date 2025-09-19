@@ -2,7 +2,7 @@ This repository contains my personal resume, written in LaTeX.
 
 It is designed to be clean, professional, and ATS-friendly.
 
-Features
+Features:
 
 Written fully in LaTeX
 
