@@ -1,15 +1,20 @@
-This repository contains my personal resume, written in LaTeX.
+This repository contains my personal resume, created entirely in LaTeX.
+It is designed to be clean, professional, and ATS-friendly, making it suitable for academic, internship, and job applications.
 
-It is designed to be clean, professional, and ATS-friendly.
+✨ Features
 
-Features:
-Written fully in LaTeX
-Easy to update and maintain
-Professional design for job applications
+📌 Written fully in LaTeX
 
-Includes sections:
+📌 Easy to update and maintain
 
-Skills
-Education
-Academic Projects
-Work Experience (if any)
+📌 Modern, professional design for applications
+
+📌 Exportable to PDF format
+
+📂 Sections Included
+
+🛠 Skills
+
+🎓 Education
+
+💡 Academic Projects
