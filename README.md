@@ -1,4 +1,5 @@
 This repository contains my personal resume, written in LaTeX.
+
 It is designed to be clean, professional, and ATS-friendly.
 
 Features
@@ -11,6 +12,9 @@ Professional design for job applications
 
 Includes sections:
 Skills
+
 Education
+
 Academic Projects
+
 Work Experience (if any)
