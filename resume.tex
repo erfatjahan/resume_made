@@ -1,0 +1,74 @@
+\documentclass[a4paper,12pt]{article}
+
+% Packages
+\usepackage[margin=1in]{geometry}
+\usepackage{parskip}
+\usepackage{hyperref}
+\usepackage{tabularx}
+\usepackage{titlesec}
+\usepackage{fontawesome5}
+
+% Section formatting
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{8pt}{6pt}
+
+% Hyperref setup (black links, no blue color)
+\hypersetup{
+    colorlinks=true,
+    urlcolor=black,
+    linkcolor=black
+}
+
+\begin{document}
+\pagestyle{empty}
+
+%----------------------------------------------------------------------------------------
+% HEADER
+%----------------------------------------------------------------------------------------
+\begin{center}
+{\Huge \textbf{Most Erfat Jahan Ekra}} \\[6pt]
+\href{mailto:erfatjahan54@gmail.com}{\faEnvelope \erfatjahan54@gmail.com} $|$ \href{https://www.linkedin.com/in/most-erfat-j-13444335b}{\faLinkedin\ linkedin.com/in/most-erfat-j-13444335b} $|$
+\href{https://github.com/erfatjahan}{\faGithub\github.com/erfatjahan}
+\end{center}
+
+%----------------------------------------------------------------------------------------
+% SKILLS
+%----------------------------------------------------------------------------------------
+\section{Skills}
+\begin{tabularx}{\linewidth}{@{}l X@{}}
+Programming Languages & Python, C, C++, Java \\
+Web Development & HTML, CSS, React, Django \\
+Database & MySQL \\
+Other & Git/GitHub, Machine Learning \\
+\end{tabularx}
+
+%----------------------------------------------------------------------------------------
+% EDUCATION
+%----------------------------------------------------------------------------------------
+\section{Education}
+\begin{tabularx}{\linewidth}{@{}l X@{}}
+2022 -- Present & \textbf{B.Sc. in Computer Science and Engineering}, Port City International University \\ 
+                & Current CGPA: 3.77/4.00 \\
+2018 -- 2020 & \textbf{Higher Secondary Certificate (HSC)}, Raozan Govt College \hfill GPA: 5.00 \\
+2016 -- 2018 & \textbf{Secondary School Certificate (SSC)}, Gohira J.Y.M.S. Multilateral High School \hfill GPA: 4.89 \\
+\end{tabularx}
+
+%----------------------------------------------------------------------------------------
+% ACADEMIC PROJECTS
+%----------------------------------------------------------------------------------------
+\section{Academic Projects}
+\textbf{Library Management System (Django)} \hfill (2025) \\
+Developed a library management system with authentication, book records, and borrowing functionality.
+
+\vspace{6pt}
+\textbf{Food Order Platform (HTML, CSS)} \hfill (2024) \\
+Developed a food order front-end platform with authentication, order history, comments, and Bootstrap-based user interface.
+
+\vspace{6pt}
+\textbf{Fake News Detection (AI/ML)} \hfill (2024) \\
+Built a machine learning model to classify fake and real news articles using NLP techniques.
+
+\vfill
+\center{\footnotesize Last updated: \today}
+
+\end{document}
